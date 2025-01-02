@@ -1,0 +1,15 @@
+{
+    "name": "pedro/meu-site",
+    "autoload": {
+        "psr-4": {
+            "Pedro\\MeuSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Serafim",
+            "email": "pedroeduardoroque01@gmail.com"
+        }
+    ],
+    "require": {}
+}

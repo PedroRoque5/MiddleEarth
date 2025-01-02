@@ -1,0 +1,51 @@
+h2.bestiario{
+
+    font-size: 40px;
+}
+
+div.links{
+
+   display: block;
+   padding: 10px;
+
+}
+
+a.link{
+
+    font-size: 15px;
+    color: yellow;
+    font-family: 'Fonte_main', serif;
+    text-shadow: 2px 2px 2px rgb(255, 0, 0);
+    pointer-events: visiblePainted red;
+    margin: 5px;
+}
+
+.link:hover{
+
+    color: red;
+    transform: scale(1.1);
+}
+
+.image_beast{
+
+    width: 10%;
+    height: 10%;
+    margin-left: 40px;
+}
+
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none; /* Esconde o botão inicialmente */
+}
+
+#backToTop:hover {
+    background-color: #b30000;
+}
