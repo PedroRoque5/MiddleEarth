@@ -17,6 +17,9 @@ text-shadow: 1px 1px 1px rgb(255, 0, 0);
     <a class="link" href="#Valar">Valar</a>
     <a class="link" href="#Maiar">Maiar</a>
     <a class="link" href="#Elfos">Elfos</a>
+    <a class="link" href="#Anaos">Anãos</a>
+    <a class="link" href="#Hobbites">Hobbites</a>
+    <a class="link" href="#Humanos">Humanos</a>
 </div>
 
 <div >
@@ -92,6 +95,48 @@ text-shadow: 1px 1px 1px rgb(255, 0, 0);
 
         No final, os elfos são seres de luz em um mundo frequentemente tomado pela escuridão. Sua presença é um lembrete de um passado glorioso e um futuro de esperança, onde ainda brilha a possibilidade de redenção e beleza, mesmo nas horas mais sombrias. Eles são, em essência, a personificação da alma da Terra-média: pura, complexa e eternamente encantadora.<br><br>
         </p>
+    </a>
+
+    <a name="Anaos">
+        <h2 class="bestiario">Anãos</h2>
+        <img class="image_beast" src="<?= ASSETS?>image/gimli.jpg">
+        <p>
+        Na vastidão do mundo de Arda, antes mesmo da ascensão dos elfos e dos homens, os anãos foram concebidos pelas mãos habilidosas de Aulë, o Ferreiro dos Valar. Impaciente pela chegada dos Filhos de Ilúvatar, ele esculpiu os Sete Pais dos Anãos em segredo, moldando-os em pedra e dotando-os de grande resistência, força e um amor inato pela criação e pelo trabalho. Mas, ao ser descoberto por Ilúvatar, Aulë se curvou à sua vontade, e os anãos foram postos em sono profundo até que o tempo correto chegasse.<br><br>
+
+        Quando despertaram nas profundezas da terra, os anãos deram início à construção de grandes reinos subterrâneos, como Khazad-dûm, o mais glorioso de todos. Mestres da forja e da lapidação, eles extraíam riquezas das entranhas das montanhas, criando armas e joias de valor inestimável. Seu orgulho era tão sólido quanto a pedra que esculpiam, e sua lealdade era um laço inquebrável, especialmente para com seu próprio povo.<br><br>
+
+        A cultura dos anãos era marcada pela tradição e pelo segredo. Raramente compartilhavam seus verdadeiros nomes com forasteiros, e seu idioma, o Khuzdul, era guardado com rigor. Seus cantos narravam feitos heroicos e tragédias antigas, como a perda de suas cidades para dragões e balrogs. Orgulhosos e teimosos, os anãos tinham uma relação conturbada com os elfos, mas mesmo entre disputas e desconfianças, suas habilidades na arte da forja eram admiradas por todas as raças.<br><br>
+        
+        Ao longo das eras, os anãos enfrentaram a decadência e o exílio, mas nunca abandonaram o desejo de recuperar sua antiga glória. Seu espírito inquebrantável ecoava nos salões abandonados e nas montanhas que chamavam de lar, pois, enquanto houvesse pedra a ser esculpida e histórias a serem contadas, os anãos jamais seriam esquecidos.<br><br>
+        </p>
+    </a>
+
+    <a name="Hobbites">
+        <h2 class="bestiario">Hobbites</h2>
+        <img class="image_beast" src="<?= ASSETS?>image/bilbo.jpg">
+        <p>
+        Os hobbits são um povo discreto, amante da tranquilidade e das coisas simples da vida. Sua origem é envolta em mistério, pois não foram mencionados nos grandes relatos dos elfos ou dos Valar. No entanto, sabe-se que, em tempos antigos, migraram de terras distantes até encontrarem um lar definitivo na pacata região do Condado. Pequenos em estatura, mas grandes em coração, os hobbits se destacavam não pela força ou pelo desejo de glória, mas pela hospitalidade, alegria e amor inabalável pela boa comida e pela terra fértil.<br><br>
+
+        Vivendo em tocas aconchegantes escavadas nas colinas, conhecidas como smials, os hobbits tinham uma cultura profundamente enraizada no campo. Dedicavam-se à agricultura, à cerveja bem tirada e às festas animadas que celebravam colheitas e aniversários. Seu dia a dia era regado a refeições generosas - não menos que seis por dia, quando possível - e conversas animadas ao redor da lareira. Desconheciam as intrigas do mundo exterior e evitavam, sempre que podiam, envolver-se em aventuras ou problemas que fugissem à rotina.<br><br>
+
+        Embora pequenos e aparentemente frágeis, os hobbits possuíam um espírito resiliente. Tinham uma coragem silenciosa, revelada apenas quando postos à prova, e um senso de comunidade que os tornava fiéis uns aos outros. A discrição era uma de suas maiores qualidades, tanto que poucas das grandes raças sabiam muito sobre eles. Falavam baixo, andavam sem ser notados e preferiam a paz à guerra. Mas, quando o destino exigia, podiam mostrar um heroísmo inesperado, como provariam aqueles poucos hobbits que, ao longo da história, ousaram deixar o conforto de seus lares para enfrentar desafios muito maiores do que eles próprios.<br><br>
+
+        Apesar de sua aversão ao desconhecido, os hobbits carregavam consigo um dom raro: a capacidade de encontrar alegria nas coisas mais simples. Talvez por isso, em um mundo marcado por reis, guerreiros e magos poderosos, fossem eles, os pequeninos do Condado, os mais preciosos guardiões da esperança.<br><br>
+        </p>
+    </a>
+
+    <a name="Humanos">
+    <h2 class="bestiario">Humanos</h2>
+    <img class="image_beast" src="<?= ASSETS?>image/Isildur.webp">
+    <p>
+    Os homens foram a segunda raça dos Filhos de Ilúvatar a despertar no mundo, depois dos elfos, mas carregavam um destino singular: a dádiva e o fardo da mortalidade. Enquanto os primeiros nasciam sob a luz das estrelas, os homens surgiram com o sol, marcando o início de uma nova era. Diferente dos elfos, cujas vidas eram longas e imortais dentro dos limites do mundo, os homens estavam destinados a envelhecer e partir para além dos círculos de Arda, rumo a um destino desconhecido até mesmo pelos sábios.<br><br>
+
+    Desde seus primórdios, os homens demonstraram uma incrível diversidade. Alguns foram seduzidos pelas sombras e se curvaram ao poder de Morgoth e Sauron, enquanto outros, os mais nobres entre eles, aliaram-se aos elfos e lutaram contra a escuridão. Entre esses, destacaram-se os Edain, que foram recompensados com a ilha de Númenor, um reino próspero e grandioso. Mas a ambição dos homens também era sua ruína: corrompidos pelo desejo de imortalidade, os númenorianos desafiaram os próprios Valar, levando à queda de sua grande civilização e ao exílio dos fiéis que fundariam os reinos de Gondor e Arnor.<br><br>
+
+    A cultura dos homens variava conforme suas origens. Os númenorianos e seus descendentes valorizavam o conhecimento, a arquitetura e a tradição, construindo cidades imponentes como Minas Tirith. Os rohirrim, povo dos cavalos, viviam nas vastas planícies de Rohan, levando uma vida de guerreiros e pastores. Já os homens das terras do leste e do sul tinham seus próprios reinos e culturas, algumas vezes caindo sob a influência sombria de Sauron.<br><br>
+
+    Apesar de sua fragilidade diante do tempo, os homens eram impulsionados pela esperança e pela ambição. Eram sonhadores, construtores, conquistadores e poetas. Sua capacidade de mudar, de cair e se reerguer, de criar e destruir, fazia deles a raça mais imprevisível de Arda. Muitos falharam, mas outros se tornaram lendas, provando que, mesmo diante da morte certa, o espírito dos homens era capaz de desafiar o próprio destino.<br><br>
+    </p>
     </a>
 </div>
 
